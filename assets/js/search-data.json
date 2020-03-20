@@ -6,9 +6,9 @@
 
   
       "page1": {
-          "title": "About Me",
+          "title": "About",
           "content": "",
-          "url": "https://icrtiou.github.io/about/",
+          "url": "https://lucasshen.org/about/",
           "relUrl": "/about/",
           "date": ""
       }
