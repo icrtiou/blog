@@ -6,4 +6,4 @@
 
 # My Blog
 
-https://icrtiou.github.io/blog _powered by [fastpages](https://github.com/fastai/fastpages)_
+_powered by [fastpages](https://github.com/fastai/fastpages)_
