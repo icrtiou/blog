@@ -12,4 +12,4 @@ This space is where I write about data, technology, and business.
 
 I aim to be very approachable. You are welcome to contact me.
 
-Email: <lucas@lucas.ai> - [resume](https://1drv.ms/w/s!AmIPaq3hglIP4Vgqkwuompw8-jlp)
+<lucas@lucas.ai> - [resume](https://1drv.ms/w/s!AmIPaq3hglIP4Vgqkwuompw8-jlp)
