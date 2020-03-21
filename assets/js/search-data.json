@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Organize my reading materials",
+            "content": "I’ve been reading ferociously recently. .",
+            "url": "https://lucasshen.org/w3c/2020/03/21/organize-reading-materials.md%20",
+            "relUrl": "/w3c/2020/03/21/organize-reading-materials.md%20",
+            "date": " • Mar 21, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About",
           "content": "Software engineer mostly working on data engineering and analytics projects. . Have been founding member of data team at few startups, fascinated by open web, open data and recent cypto development. . This space is where I write about data, technology, and business. . I aim to be very approachable. You are welcome to contact me. . lucas@lucas.ai - resume .",
           "url": "https://lucasshen.org/about/",
