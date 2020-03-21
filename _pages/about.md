@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software engineer mostly working with data engineering and analytics projects.
+Software engineer mostly working on data engineering and analytics projects.
 
 Have been founding member of data team at few startups, fascinated by open web, open data and recent cypto development.
 
