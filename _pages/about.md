@@ -6,7 +6,7 @@ permalink: /about/
 
 Software engineer mostly working with data engineering and analytics projects.
 
-I have been founding member of data team at few startups, fascinated by open web, open data and recent cypto development.
+Have been founding member of data team at few startups, fascinated by open web, open data and recent cypto development.
 
 This space is where I write about data, technology, and business.
 
