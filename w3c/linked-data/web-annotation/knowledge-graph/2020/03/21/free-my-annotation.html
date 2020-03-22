@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Free my annotation | Lucas Shen’s website</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Free my annotation" />
+<meta name="author" content="Lucas Shen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A way to annotate web page and get the data out." />
+<meta property="og:description" content="A way to annotate web page and get the data out." />
+<link rel="canonical" href="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" />
+<meta property="og:url" content="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" />
+<meta property="og:site_name" content="Lucas Shen’s website" />
+<meta property="og:image" content="https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-03-21T00:00:00-05:00" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Lucas Shen"},"description":"A way to annotate web page and get the data out.","@type":"BlogPosting","headline":"Free my annotation","dateModified":"2020-03-21T00:00:00-05:00","datePublished":"2020-03-21T00:00:00-05:00","image":"https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html"},"url":"https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://lucasshen.org/feed.xml" title="Lucas Shen's website" /><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Free my annotation | Lucas Shen’s website</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Free my annotation" />
+<meta name="author" content="Lucas Shen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A way to annotate web page and get the data out." />
+<meta property="og:description" content="A way to annotate web page and get the data out." />
+<link rel="canonical" href="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" />
+<meta property="og:url" content="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" />
+<meta property="og:site_name" content="Lucas Shen’s website" />
+<meta property="og:image" content="https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-03-21T00:00:00-05:00" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Lucas Shen"},"description":"A way to annotate web page and get the data out.","@type":"BlogPosting","headline":"Free my annotation","dateModified":"2020-03-21T00:00:00-05:00","datePublished":"2020-03-21T00:00:00-05:00","image":"https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html"},"url":"https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://lucasshen.org/feed.xml" title="Lucas Shen's website" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement( document.body, {
+        delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "[%", right: "%]", display: true},
+            {left: "$", right: "$", display: false}
+        ]}
+        );
+    });
+    </script>
+
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Lucas Shen&#39;s website</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/search/">Search</a><a class="page-link" href="/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Free my annotation</h1><p class="page-description">A way to annotate web page and get the data out.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-03-21T00:00:00-05:00" itemprop="datePublished">
+        Mar 21, 2020
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Lucas Shen</span></span>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      6 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/categories/#w3c">w3c</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/categories/#linked-data">linked-data</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/categories/#web-annotation">web-annotation</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/categories/#knowledge-graph">knowledge-graph</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+<li class="toc-entry toc-h2"><a href="#context">Context</a></li>
+<li class="toc-entry toc-h2"><a href="#purpose-of-annotation">Purpose of annotation</a></li>
+<li class="toc-entry toc-h2"><a href="#insufficient-toolbox">Insufficient toolbox</a></li>
+<li class="toc-entry toc-h2"><a href="#hypothesis">Hypothes.is</a></li>
+<li class="toc-entry toc-h2"><a href="#potential">Potential</a></li>
+</ul><h2 id="context">
+<a class="anchor" href="#context" aria-hidden="true"><span class="octicon octicon-link"></span></a>Context</h2>
+
+<p>Recently, I’ve been reading ferociously like this</p>
+
+<p><img src="https://media.giphy.com/media/4K55PfPOhIrIY/giphy.gif" alt=""></p>
+
+<p>I enter this state every once in a while to upgrade myself. However, <strong>this time is different</strong>. I am constantly overloading my mental pipeline which does ETL<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> to convert info into knowledge for me.</p>
+
+<p>Heuristically, I categorize info into <strong>3 buckets</strong> to decide if some materials need further processing.</p>
+
+<ol>
+  <li>
+<strong>Ideas I knew by heart</strong>.
+    <ul>
+      <li>It may be presented differently but I got it. Good to reinforce what I knew.</li>
+    </ul>
+  </li>
+  <li>
+<strong>Ideas help construct new connection of existing knowledge</strong>.
+    <ul>
+      <li>It’s a trigger to help realizing the possibility to connect existing dots differently. Sense of enlightenment, but nothing radical.</li>
+    </ul>
+  </li>
+  <li>
+<strong>Ideas introduce whole new perspective</strong>.
+    <ul>
+      <li>Like cartesian coordinates to polar coordinates. Not only see things differently, existing internal knowledge structure is transforming along with it. The effect has two fold:
+        <ul>
+          <li>fast: Immediate brain dead. I’ll just freeze for a while. No repulsive rejection. I knew I hit something big, positive, but can’t react.</li>
+          <li>slow: The beauty is here. My brain’s physical structure is literally changing. It will take a while for new perspective to break, reorg and merge with whatever I have in my brain. This is gold<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, and where annotations come to play an important role.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<p><img src="/assets/2020-03-21-free-my-annotation/iq.png" alt=""></p>
+
+<p>My recent reads mostly land in category 3, hence the kernel panic. Could be the world is changing exponentially but I’m not. Regardless the reason, I have to seize the opportunity to internalize as much as possible so that new ideas won’t be just words I read before, but concrete framework in my brain helping me making better decision in the future.</p>
+
+<h2 id="purpose-of-annotation">
+<a class="anchor" href="#purpose-of-annotation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Purpose of annotation</h2>
+
+<p>I can brute force through materials in category 1 and 2. For cat 1, could just forget it. Cat 2, write it down few times, compose a quick learning note or write a prototype program to connect dots should be enough. Cat 3 is in whole new level. Opportunity like this need cares. I need to create an environment to nurture new perspectives.</p>
+
+<p>In this book, <a href="https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095">How to read a book</a>, it introduces the idea of highest level of reading: <strong>syntopical reading</strong><sup id="fnref:9"><a href="#fn:9" class="footnote">3</a></sup>. Basically compare and contrast a set of ideas to understand the shape and interconnection of them, which forms the conceptual framework of the subject.</p>
+
+<p>In order to compare and contrast the elements and relationships of new perspective, I need a group of people analyzing, discussing, question and answering and find references over a period of time, typical research process. However, it’s hard to find a group of people to tackle something of my interest at the right space time. So usually I have to simulate a group of imaginary personas working on the same problem with me.</p>
+
+<p>Simulation is important because I need various attack angles to dissect the subject. Idealist, pragmatist, technologist, politician and businessman will see things differently. By resolving initially convoluted logical relationships and finding the right incentive to unite different personas, I have a chance to get the complete picture of new perspective. For me, a new perspective is how things could work differently. Burn chaotic init states through clash of personas is my process of making sense of complexities.</p>
+
+<p>Back to annotation. It serves two purposes to facilitate the process:</p>
+
+<ol>
+  <li>Keep records of interaction.</li>
+  <li>Provide decent data representation to facilitate further interaction and final interpretation.</li>
+</ol>
+
+<p>There will be a period of time I need to stay as close as possible to original reading materials to comment, highlight and take notes, repeatedly<sup id="fnref:10"><a href="#fn:10" class="footnote">4</a></sup>. To track how my understandings evolve over time and cultivate each persona’s unique voice, I need to comment on my comments and notes too. A tool helps me talking to myself. Decent UI/UX to make sense of all annotations as a whole over a period of time. I call this kind of annotation <strong>evergreen notes</strong><sup id="fnref:3"><a href="#fn:3" class="footnote">5</a></sup></p>
+
+<p>Tools I knew could achieve these goals but couldn’t stop wondering if there’s better process.</p>
+
+<h2 id="insufficient-toolbox">
+<a class="anchor" href="#insufficient-toolbox" aria-hidden="true"><span class="octicon octicon-link"></span></a>Insufficient toolbox</h2>
+
+<p>I have been using PDF reader, MS Word, MS OneNote, MindMap and <a href="draw.io">draw.io</a> to track my continuous conversation with materials. It’s ok. Few problems though:</p>
+
+<ul>
+  <li>They are designed to be used by human only. Each one of them have proprietary data format. In this setting, machines can’t help a lot in the process. I need to do all the works to copy, combine and transform<sup id="fnref:4"><a href="#fn:4" class="footnote">6</a></sup> materials.</li>
+  <li>Data are siloed. Not trivial to extract annotations in Word doc and combine with those in PDF and EPUB.</li>
+</ul>
+
+<p>Having been working on data projects for few years, I grow appreciation on the synergy of machine and human to generate useful insight from digital footprints. Even though ultimately it’s human’s responsibility to interpret and understand, machine definitely can do more to help during the process. The power of google search<sup id="fnref:5"><a href="#fn:5" class="footnote">7</a></sup> is not human curation, but to leverage the inherent interconnections of HTML via hyperlinks.</p>
+
+<p>Then, I found this: <a href="https://web.hypothes.is/">Hypothes.is</a>.</p>
+
+<blockquote>
+  <p>a non-profit using w3c standards to annotate the web with anyone, anywhere.</p>
+</blockquote>
+
+<h2 id="hypothesis">
+<a class="anchor" href="#hypothesis" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://web.hypothes.is/">Hypothes.is</a>
+</h2>
+
+<p>I was exporting web page as PDF to annotate. With hypothes.is, I could easily annotate web page directly. Few other great features:</p>
+
+<ul>
+  <li>Non-profit using open web standards<sup id="fnref:6"><a href="#fn:6" class="footnote">8</a></sup>.
+    <ul>
+      <li>I’m not another product served to advertisers directly.</li>
+      <li>Able to use that open web standard to interpret data.</li>
+    </ul>
+  </li>
+  <li>API. Even has a WebSocket based realtime API<sup id="fnref:7"><a href="#fn:7" class="footnote">9</a></sup> 👍</li>
+  <li>Able to create private group.</li>
+  <li>Support PDF and EPUB.</li>
+  <li>Open source. 🤩</li>
+</ul>
+
+<p>With this, I don’t need to export PDF anymore. Just annotate web page, save URL and revisit. Option to see public annotations and maybe join the conversation.</p>
+
+<p>Reddit, Facebook, HackerNews and countless forums can all facilitate open conversations. But fine grained annotation directly on web page to everyone is way more powerful in my opinion.</p>
+
+<p>What really excites me is that, with this tool and open web standards, I could build a personal knowledge graph<sup id="fnref:8"><a href="#fn:8" class="footnote">10</a></sup> programatically.</p>
+
+<h2 id="potential">
+<a class="anchor" href="#potential" aria-hidden="true"><span class="octicon octicon-link"></span></a>Potential</h2>
+
+<p>Imagine a world:</p>
+
+<ul>
+  <li>I could have comprehensive view of all readings. Flashcards are generated automatically to easily review key quote and comment.</li>
+  <li>Follow the breadcrumbs of HTMLs to expand the width or depth of the research.</li>
+  <li>Relationships of materials.
+    <ul>
+      <li>The graph could be serialize on time dimension to see how I’m influenced by what, when, and laid out briefings of each article.</li>
+      <li>Able to explore the interconnections of materials and track the progress of exploration into unknown area.</li>
+      <li>Could even use ML generated summary to help me decide which direction is more interesting to dig deeper.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>I won’t dream too far to say this could be the foundation of personal Jarvis but this is way better than siloed PDF and Word files scatter all over my PC.</p>
+
+<p><img src="https://media.giphy.com/media/K0gPNKBiSYjG8/giphy.gif" alt=""></p>
+
+<p>Will definitely use the service for a little longer and see if I could build something useful. Annotation on voice and video sounds useful to me, considering all those podcasts and youtube videos.</p>
+
+<hr>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">Extract, transform, load</a> <a href="#fnref:1" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:2">
+      <p><a href="https://youtu.be/1e8VZlPBx_0?t=94">Perspective is gold</a> <a href="#fnref:2" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:9">
+      <p><a href="https://fs.blog/how-to-read-a-book/">How to Read a Book: The Ultimate Guide by Mortimer Adler</a> <a href="#fnref:9" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:10">
+      <p><a href="https://www.gwern.net/Spaced-repetition">Spaced Repetition for Efficient Learning</a> <a href="#fnref:10" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:3">
+      <p><a href="https://notes.andymatuschak.org/My_morning_writing_practice?stackedNotes=Evergreen_notes">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects..</a> <a href="#fnref:3" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:4">
+      <p><a href="https://vimeo.com/139094998">Everything is a Remix</a> <a href="#fnref:4" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:5">
+      <p><a href="https://en.wikipedia.org/wiki/PageRank">Pagerank</a> <a href="#fnref:5" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:6">
+      <p><a href="https://www.w3.org/TR/annotation-model/">Web Annotation Data Model</a> <a href="#fnref:6" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:7">
+      <p><a href="https://h.readthedocs.io/en/latest/api/realtime/">Real Time API</a> <a href="#fnref:7" class="reversefootnote">↩</a></p>
+    </li>
+    <li id="fn:8">
+      <p><a href="https://arxiv.org/abs/2003.02320">Knowledge Graphs</a> <a href="#fnref:8" class="reversefootnote">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div><!-- from https://github.com/utterance/utterances -->
+<script src="https://utteranc.es/client.js"
+        repo="icrtiou/blog"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script><a class="u-url" href="/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p></p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/icrtiou" title="icrtiou"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://www.linkedin.com/in/lucashsuan" title="lucashsuan"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li><li><a rel="me" href="https://twitter.com/icrtiou" title="icrtiou"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

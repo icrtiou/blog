@@ -1,1 +1,156 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-03-21T18:07:44-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen’s website</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-03-22T12:35:31-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen’s website</title><entry><title type="html">Free my annotation</title><link href="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" rel="alternate" type="text/html" title="Free my annotation" /><published>2020-03-21T00:00:00-05:00</published><updated>2020-03-21T00:00:00-05:00</updated><id>https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation</id><content type="html" xml:base="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html">&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Recently, I’ve been reading ferociously like this&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/4K55PfPOhIrIY/giphy.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I enter this state every once in a while to upgrade myself. However, &lt;strong&gt;this time is different&lt;/strong&gt;. I am constantly overloading my mental pipeline which does ETL&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to convert info into knowledge for me.&lt;/p&gt;
+
+&lt;p&gt;Heuristically, I categorize info into &lt;strong&gt;3 buckets&lt;/strong&gt; to decide if some materials need further processing.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Ideas I knew by heart&lt;/strong&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;It may be presented differently but I got it. Good to reinforce what I knew.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ideas help construct new connection of existing knowledge&lt;/strong&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;It’s a trigger to help realizing the possibility to connect existing dots differently. Sense of enlightenment, but nothing radical.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ideas introduce whole new perspective&lt;/strong&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Like cartesian coordinates to polar coordinates. Not only see things differently, existing internal knowledge structure is transforming along with it. The effect has two fold:
+        &lt;ul&gt;
+          &lt;li&gt;fast: Immediate brain dead. I’ll just freeze for a while. No repulsive rejection. I knew I hit something big, positive, but can’t react.&lt;/li&gt;
+          &lt;li&gt;slow: The beauty is here. My brain’s physical structure is literally changing. It will take a while for new perspective to break, reorg and merge with whatever I have in my brain. This is gold&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and where annotations come to play an important role.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2020-03-21-free-my-annotation/iq.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My recent reads mostly land in category 3, hence the kernel panic. Could be the world is changing exponentially but I’m not. Regardless the reason, I have to seize the opportunity to internalize as much as possible so that new ideas won’t be just words I read before, but concrete framework in my brain helping me making better decision in the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;purpose-of-annotation&quot;&gt;Purpose of annotation&lt;/h2&gt;
+
+&lt;p&gt;I can brute force through materials in category 1 and 2. For cat 1, could just forget it. Cat 2, write it down few times, compose a quick learning note or write a prototype program to connect dots should be enough. Cat 3 is in whole new level. Opportunity like this need cares. I need to create an environment to nurture new perspectives.&lt;/p&gt;
+
+&lt;p&gt;In this book, &lt;a href=&quot;https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095&quot;&gt;How to read a book&lt;/a&gt;, it introduces the idea of highest level of reading: &lt;strong&gt;syntopical reading&lt;/strong&gt;&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Basically compare and contrast a set of ideas to understand the shape and interconnection of them, which forms the conceptual framework of the subject.&lt;/p&gt;
+
+&lt;p&gt;In order to compare and contrast the elements and relationships of new perspective, I need a group of people analyzing, discussing, question and answering and find references over a period of time, typical research process. However, it’s hard to find a group of people to tackle something of my interest at the right space time. So usually I have to simulate a group of imaginary personas working on the same problem with me.&lt;/p&gt;
+
+&lt;p&gt;Simulation is important because I need various attack angles to dissect the subject. Idealist, pragmatist, technologist, politician and businessman will see things differently. By resolving initially convoluted logical relationships and finding the right incentive to unite different personas, I have a chance to get the complete picture of new perspective. For me, a new perspective is how things could work differently. Burn chaotic init states through clash of personas is my process of making sense of complexities.&lt;/p&gt;
+
+&lt;p&gt;Back to annotation. It serves two purposes to facilitate the process:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Keep records of interaction.&lt;/li&gt;
+  &lt;li&gt;Provide decent data representation to facilitate further interaction and final interpretation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There will be a period of time I need to stay as close as possible to original reading materials to comment, highlight and take notes, repeatedly&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. To track how my understandings evolve over time and cultivate each persona’s unique voice, I need to comment on my comments and notes too. A tool helps me talking to myself. Decent UI/UX to make sense of all annotations as a whole over a period of time. I call this kind of annotation &lt;strong&gt;evergreen notes&lt;/strong&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Tools I knew could achieve these goals but couldn’t stop wondering if there’s better process.&lt;/p&gt;
+
+&lt;h2 id=&quot;insufficient-toolbox&quot;&gt;Insufficient toolbox&lt;/h2&gt;
+
+&lt;p&gt;I have been using PDF reader, MS Word, MS OneNote, MindMap and &lt;a href=&quot;draw.io&quot;&gt;draw.io&lt;/a&gt; to track my continuous conversation with materials. It’s ok. Few problems though:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They are designed to be used by human only. Each one of them have proprietary data format. In this setting, machines can’t help a lot in the process. I need to do all the works to copy, combine and transform&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; materials.&lt;/li&gt;
+  &lt;li&gt;Data are siloed. Not trivial to extract annotations in Word doc and combine with those in PDF and EPUB.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Having been working on data projects for few years, I grow appreciation on the synergy of machine and human to generate useful insight from digital footprints. Even though ultimately it’s human’s responsibility to interpret and understand, machine definitely can do more to help during the process. The power of google search&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; is not human curation, but to leverage the inherent interconnections of HTML via hyperlinks.&lt;/p&gt;
+
+&lt;p&gt;Then, I found this: &lt;a href=&quot;https://web.hypothes.is/&quot;&gt;Hypothes.is&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a non-profit using w3c standards to annotate the web with anyone, anywhere.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hypothesis&quot;&gt;&lt;a href=&quot;https://web.hypothes.is/&quot;&gt;Hypothes.is&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I was exporting web page as PDF to annotate. With hypothes.is, I could easily annotate web page directly. Few other great features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Non-profit using open web standards&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;I’m not another product served to advertisers directly.&lt;/li&gt;
+      &lt;li&gt;Able to use that open web standard to interpret data.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;API. Even has a WebSocket based realtime API&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; 👍&lt;/li&gt;
+  &lt;li&gt;Able to create private group.&lt;/li&gt;
+  &lt;li&gt;Support PDF and EPUB.&lt;/li&gt;
+  &lt;li&gt;Open source. 🤩&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this, I don’t need to export PDF anymore. Just annotate web page, save URL and revisit. Option to see public annotations and maybe join the conversation.&lt;/p&gt;
+
+&lt;p&gt;Reddit, Facebook, HackerNews and countless forums can all facilitate open conversations. But fine grained annotation directly on web page to everyone is way more powerful in my opinion.&lt;/p&gt;
+
+&lt;p&gt;What really excites me is that, with this tool and open web standards, I could build a personal knowledge graph&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; programatically.&lt;/p&gt;
+
+&lt;h2 id=&quot;potential&quot;&gt;Potential&lt;/h2&gt;
+
+&lt;p&gt;Imagine a world:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I could have comprehensive view of all readings. Flashcards are generated automatically to easily review key quote and comment.&lt;/li&gt;
+  &lt;li&gt;Follow the breadcrumbs of HTMLs to expand the width or depth of the research.&lt;/li&gt;
+  &lt;li&gt;Relationships of materials.
+    &lt;ul&gt;
+      &lt;li&gt;The graph could be serialize on time dimension to see how I’m influenced by what, when, and laid out briefings of each article.&lt;/li&gt;
+      &lt;li&gt;Able to explore the interconnections of materials and track the progress of exploration into unknown area.&lt;/li&gt;
+      &lt;li&gt;Could even use ML generated summary to help me decide which direction is more interesting to dig deeper.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I won’t dream too far to say this could be the foundation of personal Jarvis but this is way better than siloed PDF and Word files scatter all over my PC.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/K0gPNKBiSYjG8/giphy.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Will definitely use the service for a little longer and see if I could build something useful. Annotation on voice and video sounds useful to me, considering all those podcasts and youtube videos.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Extract,_transform,_load&quot;&gt;Extract, transform, load&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://youtu.be/1e8VZlPBx_0?t=94&quot;&gt;Perspective is gold&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://fs.blog/how-to-read-a-book/&quot;&gt;How to Read a Book: The Ultimate Guide by Mortimer Adler&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gwern.net/Spaced-repetition&quot;&gt;Spaced Repetition for Efficient Learning&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://notes.andymatuschak.org/My_morning_writing_practice?stackedNotes=Evergreen_notes&quot;&gt;Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects..&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://vimeo.com/139094998&quot;&gt;Everything is a Remix&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/PageRank&quot;&gt;Pagerank&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.w3.org/TR/annotation-model/&quot;&gt;Web Annotation Data Model&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://h.readthedocs.io/en/latest/api/realtime/&quot;&gt;Real Time API&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2003.02320&quot;&gt;Knowledge Graphs&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Lucas Shen</name></author><summary type="html">Context</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png" /><media:content medium="image" url="https://lucasshen.org/assets/2020-03-21-free-my-annotation/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
