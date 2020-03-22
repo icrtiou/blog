@@ -97,7 +97,7 @@ I won't dream too far to say this could be the foundation of personal Jarvis but
 
 ![](https://media.giphy.com/media/K0gPNKBiSYjG8/giphy.gif)
 
-Will definitely use the service for a little longer and see if I could build something useful. Annotation on voice and video sounds useful to me, considering all those podcasts and youtube videos.
+Will definitely keep using the service and see if I could build something useful. Annotation on audio and video sounds useful to me, considering all those podcasts and youtube videos.
 
 ---
 
