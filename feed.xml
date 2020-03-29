@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-03-27T04:45:49-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen’s website</title><subtitle>A blog about data, technology and busienss.</subtitle><entry><title type="html">Free my annotation</title><link href="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" rel="alternate" type="text/html" title="Free my annotation" /><published>2020-03-21T00:00:00-05:00</published><updated>2020-03-21T00:00:00-05:00</updated><id>https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation</id><content type="html" xml:base="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html">&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-03-28T19:07:10-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen’s website</title><subtitle>A blog about data, technology and busienss.</subtitle><entry><title type="html">Business model and ESG</title><link href="https://lucasshen.org/business/2020/03/28/business-model-esg.html" rel="alternate" type="text/html" title="Business model and ESG" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://lucasshen.org/business/2020/03/28/business-model-esg</id><content type="html" xml:base="https://lucasshen.org/business/2020/03/28/business-model-esg.html">&lt;p&gt;Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.&lt;/p&gt;
+
+&lt;p&gt;If business model is not aligned with stakeholders, the business will fail.&lt;/p&gt;
+
+&lt;p&gt;Google/FB are in advertisement business, attention economy. Advertisers are the one who pay. Their incentives are super aligned in a great market, hence they are successful company, 500bn+ market cap. Just unfortunate that it takes 10 years for regular users, including me, to start thinking this is not ok.&lt;/p&gt;
+
+&lt;p&gt;Yes I got amazing services for FREE, at what expense? Took a while to understand what’s the cost, personal data, privacy, control, choice ….&lt;/p&gt;
+
+&lt;p&gt;The idea of &lt;a href=&quot;https://en.wikipedia.org/wiki/Environmental,_social_and_corporate_governance&quot;&gt;ESG, environment, social and governance&lt;/a&gt;, is brewing right now. CEO in big corps even signed a &lt;strong&gt;Statement on the purpose of corporation&lt;/strong&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While each of our individual companies serves its own corporate purpose, we share a fundamental commitment to all of our stakeholders&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stakeholder used to mean shareholder only. Now it’s expanded to include customer, employee, supplier and community. News like this &lt;a href=&quot;https://www.reuters.com/article/us-jp-morgan-business-roundtable-idUSKCN1V91EK&quot;&gt;Top U.S. CEOs say companies should put social responsibility above profit&lt;/a&gt; are all over major news outlets around Aug/2019.&lt;/p&gt;
+
+&lt;p&gt;It’s right direction. Has short term PR value. May be able to lay the ground work for steering public opinions to pave the way for next wave of antitrust. However I don’t expect swift behavior changes from big corps. Business model dictates options of action. Successful corps need time, rather long period of time to migrate entrenched business model, if not impossible.&lt;/p&gt;
+
+&lt;p&gt;For established corp, ESG means cost and risk. To comply and not impose different kind of risk.&lt;br /&gt;
+For startup, this is great time to think about how to unbundle dominant player’s offerings with ESG built-in by design.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://opportunity.businessroundtable.org/wp-content/uploads/2020/03/BRT-Statement-on-the-Purpose-of-a-Corporation-with-Signatures.pdf&quot;&gt;Statement on the purpose of corporation&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Lucas Shen</name></author><summary type="html">Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.</summary></entry><entry><title type="html">Free my annotation</title><link href="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html" rel="alternate" type="text/html" title="Free my annotation" /><published>2020-03-21T00:00:00-05:00</published><updated>2020-03-21T00:00:00-05:00</updated><id>https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation</id><content type="html" xml:base="https://lucasshen.org/w3c/linked-data/web-annotation/knowledge-graph/2020/03/21/free-my-annotation.html">&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
 
 &lt;p&gt;Recently, I’ve been reading ferociously like this&lt;/p&gt;
 
