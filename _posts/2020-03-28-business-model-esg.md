@@ -25,7 +25,9 @@ Stakeholder used to mean shareholder only. Now it's expanded to include customer
 
 It's right direction. Has short term PR value. May be able to lay the ground work for steering public opinions to pave the way for next wave of antitrust. However I don't expect swift behavior changes from big corps. Business model dictates options of action. Successful corps need time, rather long period of time to migrate entrenched business model, if not impossible.
 
-For established corp, ESG means cost and risk. To comply and not impose different kind of risk.  
+For established corp, ESG means cost and risk. To comply or not both impose different kind of risk.  
 For startup, this is great time to think about how to unbundle dominant player's offerings with ESG built-in by design.
+
+---
 
 [^1]: [Statement on the purpose of corporation](https://opportunity.businessroundtable.org/wp-content/uploads/2020/03/BRT-Statement-on-the-Purpose-of-a-Corporation-with-Signatures.pdf)
