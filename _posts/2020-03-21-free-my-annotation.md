@@ -1,7 +1,7 @@
 ---
 title: Free my annotation
 description: A way to annotate web page and get the data out.
-author: "Lucas Shen"
+author: Lucas Shen
 image: assets/2020-03-21-free-my-annotation/cover.png
 comments: true
 toc: true

@@ -1,12 +1,13 @@
 ---
+date: 2020-03-28
 title: Business model and ESG
-description: Environment, social and governance.
-author: "Lucas Shen"
-image:
+description: Environment, social and governance
+categories: [business]
+author: Lucas Shen
 comments: true
 toc: true
 layout: post
-categories: [business]
+image:
 ---
 
 Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.
