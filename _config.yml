@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: lucasshenv
-    github: icrtiou
+    github: lucasshenv
     linkedin: lucasshen
 
 # Set this to true to get LaTeX math equation support
