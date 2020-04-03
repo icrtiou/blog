@@ -1,4 +1,221 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-03-31T00:14:28-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen</title><subtitle>A blog about data, technology and busienss.</subtitle><entry><title type="html">Business model and ESG</title><link href="https://lucasshen.org/business/2020/03/28/business-model-esg.html" rel="alternate" type="text/html" title="Business model and ESG" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://lucasshen.org/business/2020/03/28/business-model-esg</id><content type="html" xml:base="https://lucasshen.org/business/2020/03/28/business-model-esg.html">&lt;p&gt;Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-04-02T20:56:39-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen</title><subtitle>Data, technology and busienss.</subtitle><entry><title type="html">Web 3.0 reading list</title><link href="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html" rel="alternate" type="text/html" title="Web 3.0 reading list" /><published>2020-04-02T00:00:00-05:00</published><updated>2020-04-02T00:00:00-05:00</updated><id>https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list</id><content type="html" xml:base="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html">&lt;p&gt;I’ve been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;list&quot;&gt;List&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-warm-welcome-to-web3-and-the-future-of-the-internet-2018&quot;&gt;A Warm Welcome to Web3 and the Future of the Internet (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-we-need-web-30-2018&quot;&gt;Why We Need Web 3.0 (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#understanding-web-3--a-user-controlled-internet-2018&quot;&gt;Understanding Web 3 — A User Controlled Internet (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-exactly-is-web3-by-juan-benet-at-web3-summit-2018&quot;&gt;What Exactly is Web3? by Juan Benet at Web3 Summit (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#juan-benet-presents-building-web3-at-web3-summit-2019&quot;&gt;Juan Benet Presents Building Web3 at Web3 Summit (2019)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-3-revolutions-of-web-3-2020&quot;&gt;The 3 Revolutions of Web 3 (2020)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-decentralization-matters-2018&quot;&gt;Why Decentralization Matters (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#web-30-stack-modules-reconstruction-and-investment-outlook-2020&quot;&gt;Web 3.0 Stack Modules Reconstruction and Investment Outlook (2020)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#making-sense-of-web-3-2018&quot;&gt;Making Sense of Web 3 (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#re-decentralizing-the-web-for-good-this-time-2019&quot;&gt;Re-decentralizing the Web, for good this time (2019)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;excerpt-and-notes&quot;&gt;Excerpt and notes&lt;/h3&gt;
+
+&lt;h2 id=&quot;a-warm-welcome-to-web3-and-the-future-of-the-internet-2018&quot;&gt;&lt;a href=&quot;https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5&quot;&gt;A Warm Welcome to Web3 and the Future of the Internet (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web 1.0 was the read-only web&lt;/li&gt;
+  &lt;li&gt;Web 2.0 was the read-write web&lt;/li&gt;
+  &lt;li&gt;Web 3.0 is an unmediated read-write web&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Show me the incentive and I will show you the outcome.” — Charlie Munger, Berkshire Hathaway&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Change the incentives, change the world.” — Niran Babalola&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-we-need-web-30-2018&quot;&gt;&lt;a href=&quot;https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab&quot;&gt;Why We Need Web 3.0 (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the basic technical architecture of the internet provided no backstop against changes happening in the other direction. Society was bound to imprint itself back on the web.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Echos verifiable trust and can’t be evil design thinking.&lt;/p&gt;
+
+  &lt;p&gt;Basically with misaligned incentives between big corp and normal user, self regulation has it’s limit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;understanding-web-3--a-user-controlled-internet-2018&quot;&gt;&lt;a href=&quot;https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3&quot;&gt;Understanding Web 3 — A User Controlled Internet (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great tech/dev overview.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-exactly-is-web3-by-juan-benet-at-web3-summit-2018&quot;&gt;&lt;a href=&quot;https://youtu.be/l44z35vabvA&quot;&gt;What Exactly is Web3? by Juan Benet at Web3 Summit (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Verifiable trust. Don’t build something you’ll regret.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://talks.benet.ai/2018-10-22-web3/what-is-web3.pdf&quot;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;juan-benet-presents-building-web3-at-web3-summit-2019&quot;&gt;&lt;a href=&quot;https://youtu.be/pJOG5Ql7ZD0&quot;&gt;Juan Benet Presents Building Web3 at Web3 Summit (2019)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;crypto, p2p and economic systems are hard.&lt;/li&gt;
+  &lt;li&gt;we don’t have good enough tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-3-revolutions-of-web-3-2020&quot;&gt;&lt;a href=&quot;https://medium.com/@tonyob/the-3-revolutions-of-web-3-7165ed6b3036&quot;&gt;The 3 Revolutions of Web 3 (2020)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;2020-03-31&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;history&quot;&gt;History&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Internet
+        &lt;ul&gt;
+          &lt;li&gt;Need to have decentralized control over nuclear weapons launch.&lt;/li&gt;
+          &lt;li&gt;physical infrastructure + early stage browser&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Web1
+        &lt;ul&gt;
+          &lt;li&gt;decentralized&lt;/li&gt;
+          &lt;li&gt;open source&lt;/li&gt;
+          &lt;li&gt;read only. most people are not techie enough to publish contents&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Web2
+        &lt;ul&gt;
+          &lt;li&gt;Youtube, FB, Twitter. Public adoption, great UX. Wall gardened data oligarchs.&lt;/li&gt;
+          &lt;li&gt;App store, even more isolated.&lt;/li&gt;
+          &lt;li&gt;problems:
+            &lt;ul&gt;
+              &lt;li&gt;ad&lt;/li&gt;
+              &lt;li&gt;data breach&lt;/li&gt;
+              &lt;li&gt;surveillance&lt;/li&gt;
+              &lt;li&gt;censorship&lt;/li&gt;
+              &lt;li&gt;data loss&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Web3
+        &lt;ul&gt;
+          &lt;li&gt;Native money&lt;/li&gt;
+          &lt;li&gt;dApp enable new capabilities&lt;/li&gt;
+          &lt;li&gt;Control over id and data&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;meaning&quot;&gt;Meaning&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;web1 + web2 -&amp;gt; free flow of information&lt;/li&gt;
+      &lt;li&gt;web3 -&amp;gt; &lt;strong&gt;free flow of value&lt;/strong&gt; - digital scarcity - value flows like information flow in web2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;dont-do-evil---cant-be-evil&quot;&gt;Don’t do evil -&amp;gt; Can’t be evil&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;While Bitcoin could disrupt cash or gold (depending on who you ask), the value revolution goes far beyond that. Think of every component of society that requires scarcity — stocks, bonds, IDs, real estate, etc. All of these could be transformed by Web 3.&lt;/li&gt;
+    &lt;li&gt;Every dApp company in the future would be fintech company.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gettoby.com/p/gsfvs8c8a6vw&quot;&gt;references&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;why-decentralization-matters-2018&quot;&gt;&lt;a href=&quot;https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e&quot;&gt;Why Decentralization Matters (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;2020-03-30&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Centralized platforms follow a predictable life cycle:
+    &lt;ul&gt;
+      &lt;li&gt;When they start out, they do everything they can to recruit users and 3rd-party complements like developers, businesses, and media organizations. They do this to make their services more valuable, as platforms (by definition) are systems with multi-sided network effects.&lt;/li&gt;
+      &lt;li&gt;As platforms move up the adoption S-curve, their power over users and 3rd parties steadily grows.&lt;/li&gt;
+      &lt;li&gt;When they hit the top of the S-curve, their &lt;strong&gt;relationships with network participants change from positive-sum to zero-sum&lt;/strong&gt;. The easiest way to continue growing lies in extracting data from users and competing with complements over audiences and profits.&lt;/li&gt;
+      &lt;li&gt;For 3rd parties, this transition from cooperation to competition feels like a bait-and-switch.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Over time, the best entrepreneurs, developers, and investors have become wary of building on top of centralized platforms. We now have decades of evidence that doing so will end in disappointment. In addition, users give up privacy, control of their data, and become vulnerable to security breaches.&lt;/li&gt;
+  &lt;li&gt;Software and web services are built by developers. There are millions of highly skilled developers in the world. Only a small fraction work at large technology companies, and only a small fraction of those work on new product development. Many of the most important software projects in history were created by startups or by communities of independent developers.&lt;/li&gt;
+  &lt;li&gt;Decentralized networks can win the third era of the internet for the same reason they won the first era: by winning the hearts and minds of entrepreneurs and developers.&lt;/li&gt;
+  &lt;li&gt;The question of whether decentralized or centralized systems will win the next era of the internet reduces to &lt;strong&gt;who will build the most compelling products, which in turn reduces to who will get more high quality developers and entrepreneurs on their side&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;this future definitely make me feel more hopeful than endless spotting &lt;a href=&quot;https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups&quot;&gt;startup kill zone from big tech giants&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;web-30-stack-modules-reconstruction-and-investment-outlook-2020&quot;&gt;&lt;a href=&quot;https://medium.com/@IOSGVC/web-3-0-stack-modules-reconstruction-and-investment-outlook-bd1e624c4bdb&quot;&gt;Web 3.0 Stack Modules Reconstruction and Investment Outlook (2020)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;2020-03-30&lt;/p&gt;
+
+&lt;p&gt;The founder team is another crucial aspect. To set up an industry standard, the leadership, open-source knowledge and experience will be helpful to quickly gather a strong developer community and build a user-driven product.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;abilities of open protocol design&lt;/li&gt;
+  &lt;li&gt;economic design&lt;/li&gt;
+  &lt;li&gt;development strategies&lt;/li&gt;
+  &lt;li&gt;community governance&lt;/li&gt;
+  &lt;li&gt;targeted market&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Max Planck once said, &lt;strong&gt;a new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it&lt;/strong&gt;. To all the people who are sharing a Web3.0 dream and on this journey.&lt;/p&gt;
+
+&lt;h2 id=&quot;making-sense-of-web-3-2018&quot;&gt;&lt;a href=&quot;https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae&quot;&gt;Making Sense of Web 3 (2018)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;2020-03-30&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;native-money&quot;&gt;Native money&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Sending or receiving payments is now something that any piece of software can do, and by extension, something that can be done by any person with an internet connection and a phone.&lt;/li&gt;
+      &lt;li&gt;the innovation of cryptocurrencies is that people can opt into whatever monetary policy they choose, whatever that happens to be. All they need is an internet connection and a phone.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;decentralized-app&quot;&gt;Decentralized app&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;The core rules that govern our decentralized service are defined in an open-source protocol. Users interact with that protocol using client-software of their choice. In other words, &lt;strong&gt;there would be a variety of apps, all made by different developers, but which all connected to the same social network. These clients may offer different features from one another, but all conform to the same shared protocol&lt;/strong&gt;, analogous to the way that email clients all use the same standard for sending and receiving emails.&lt;/li&gt;
+      &lt;li&gt;App developers can build useful products on top of a decentralized protocol without fear that someday their API access will be turned off, because there is no one company who can turn it off. The platform can remain neutral, meaning that a larger network of developers will invest their time and money into building businesses on top of it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;control-of-digital-identity-and-data&quot;&gt;Control of digital identity and data&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Today, most of our online identities belong to someone else, like a Gmail address or Facebook account. Web 3 is laying the groundwork for personal control of online identities.&lt;/li&gt;
+      &lt;li&gt;.. companies collect your data because it’s valuable. In web 3, users capture that value instead. If you want to sell data about your personal browsing habits, you will be able to do so directly — but you get paid, not Facebook.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Have freedom to choose the monetary policy that is most aligned with my value sounds very hopeful. Just need to learn economics to understand implications LoL.&lt;/li&gt;
+    &lt;li&gt;Native digital money. How does that facilitate app, content creator? Since the incentive of exchange is changed, the whole economy of adopted users is changed. Passion economy would be redefined.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;re-decentralizing-the-web-for-good-this-time-2019&quot;&gt;&lt;a href=&quot;https://ruben.verborgh.org/articles/redecentralizing-the-web/&quot;&gt;Re-decentralizing the Web, for good this time (2019)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This one is coming from semantic web.&lt;/p&gt;
+
+&lt;p&gt;In crypto world you hope protocols to have multiple implementations to reduce cognitive bias so that the whole system would be more resilient in the long term.&lt;/p&gt;
+
+&lt;p&gt;Even though semantic web’s adoption has been fairly limited for past 10 years, still worth your time. Once in a while, old stuff resurfaces in very unexpected but incredibly constructive way, ex: deep learning.&lt;/p&gt;</content><author><name>Lucas Shen</name></author><summary type="html">I’ve been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" /><media:content medium="image" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Business model and ESG</title><link href="https://lucasshen.org/business/2020/03/28/business-model-esg.html" rel="alternate" type="text/html" title="Business model and ESG" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://lucasshen.org/business/2020/03/28/business-model-esg</id><content type="html" xml:base="https://lucasshen.org/business/2020/03/28/business-model-esg.html">&lt;p&gt;Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.&lt;/p&gt;
 
 &lt;p&gt;If business model is not aligned with stakeholders, the business will fail.&lt;/p&gt;
 
