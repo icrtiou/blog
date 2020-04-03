@@ -47,7 +47,7 @@ I've been reading about web3 movement recently. It has many faces. The list help
 
 ## [Understanding Web 3 — A User Controlled Internet (2018)](https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3)
 
-Great tech/dev overview.
+- Great tech/dev overview.
 
 ## [What Exactly is Web3? by Juan Benet at Web3 Summit (2018)](https://youtu.be/l44z35vabvA)
 
@@ -60,8 +60,6 @@ Great tech/dev overview.
 - we don't have good enough tools
 
 ## [The 3 Revolutions of Web 3 (2020)](https://medium.com/@tonyob/the-3-revolutions-of-web-3-7165ed6b3036)
-
-2020-03-31
 
 - ### History
 
@@ -100,8 +98,6 @@ Great tech/dev overview.
 
 ## [Why Decentralization Matters (2018)](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 
-2020-03-30
-
 - Centralized platforms follow a predictable life cycle:
   - When they start out, they do everything they can to recruit users and 3rd-party complements like developers, businesses, and media organizations. They do this to make their services more valuable, as platforms (by definition) are systems with multi-sided network effects.
   - As platforms move up the adoption S-curve, their power over users and 3rd parties steadily grows.
@@ -116,8 +112,6 @@ Great tech/dev overview.
 
 ## [Web 3.0 Stack Modules Reconstruction and Investment Outlook (2020)](https://medium.com/@IOSGVC/web-3-0-stack-modules-reconstruction-and-investment-outlook-bd1e624c4bdb)
 
-2020-03-30
-
 The founder team is another crucial aspect. To set up an industry standard, the leadership, open-source knowledge and experience will be helpful to quickly gather a strong developer community and build a user-driven product.
 
 - abilities of open protocol design
@@ -129,8 +123,6 @@ The founder team is another crucial aspect. To set up an industry standard, the 
 Max Planck once said, **a new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it**. To all the people who are sharing a Web3.0 dream and on this journey.
 
 ## [Making Sense of Web 3 (2018)](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
-
-2020-03-30
 
 - ### Native money
 
