@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-04-03T16:37:45-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen</title><subtitle>Data, technology and busienss.</subtitle><entry><title type="html">Web 3.0 reading list</title><link href="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html" rel="alternate" type="text/html" title="Web 3.0 reading list" /><published>2020-04-02T00:00:00-05:00</published><updated>2020-04-02T00:00:00-05:00</updated><id>https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list</id><content type="html" xml:base="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html">&lt;p&gt;I’ve been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lucasshen.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lucasshen.org/" rel="alternate" type="text/html" /><updated>2020-04-04T13:56:47-05:00</updated><id>https://lucasshen.org/feed.xml</id><title type="html">Lucas Shen</title><subtitle>Data, technology and busienss.</subtitle><entry><title type="html">Web 3.0 reading list</title><link href="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html" rel="alternate" type="text/html" title="Web 3.0 reading list" /><published>2020-04-02T00:00:00-05:00</published><updated>2020-04-02T00:00:00-05:00</updated><id>https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list</id><content type="html" xml:base="https://lucasshen.org/web3/crypto/semantic-web/2020/04/02/web3-readinng-list.html">&lt;blockquote&gt;
+  &lt;p&gt;updated: 2020-4-4&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.&lt;/p&gt;
 
 &lt;h3 id=&quot;list&quot;&gt;List&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#technology-as-a-political-act-aka-web3-2020&quot;&gt;Technology as a political act aka Web3 (2020)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#a-warm-welcome-to-web3-and-the-future-of-the-internet-2018&quot;&gt;A Warm Welcome to Web3 and the Future of the Internet (2018)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#why-we-need-web-30-2018&quot;&gt;Why We Need Web 3.0 (2018)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#understanding-web-3--a-user-controlled-internet-2018&quot;&gt;Understanding Web 3 — A User Controlled Internet (2018)&lt;/a&gt;&lt;/li&gt;
@@ -16,6 +21,12 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;excerpt-and-notes&quot;&gt;Excerpt and notes&lt;/h3&gt;
+
+&lt;h2 id=&quot;technology-as-a-political-act-aka-web3-2020&quot;&gt;&lt;a href=&quot;https://outlierventures.io/research/technology-as-a-political-act-aka-web3/&quot;&gt;Technology as a political act aka Web3 (2020)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web3 is a social movement. As computing and software become cheaper, faster and easier, activism and political statements can be expressed in code. A lot of people don’t trust authorities, so instead of demonstrating they are creating technology. Technology, in this case, is a political act.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;a-warm-welcome-to-web3-and-the-future-of-the-internet-2018&quot;&gt;&lt;a href=&quot;https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5&quot;&gt;A Warm Welcome to Web3 and the Future of the Internet (2018)&lt;/a&gt;&lt;/h2&gt;
 
@@ -209,7 +220,7 @@
 
 &lt;p&gt;In crypto world you hope protocols to have multiple implementations to reduce cognitive bias so that the whole system would be more resilient in the long term.&lt;/p&gt;
 
-&lt;p&gt;Even though semantic web’s adoption has been fairly limited for past 10 years, still worth your time. Once in a while, old stuff resurfaces in very unexpected but incredibly constructive way, ex: deep learning.&lt;/p&gt;</content><author><name>Lucas Shen</name></author><summary type="html">I’ve been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" /><media:content medium="image" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Business model and ESG</title><link href="https://lucasshen.org/business/2020/03/28/business-model-esg.html" rel="alternate" type="text/html" title="Business model and ESG" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://lucasshen.org/business/2020/03/28/business-model-esg</id><content type="html" xml:base="https://lucasshen.org/business/2020/03/28/business-model-esg.html">&lt;p&gt;Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.&lt;/p&gt;
+&lt;p&gt;Even though semantic web’s adoption has been fairly limited for past 10 years, still worth your time. Once in a while, old stuff resurfaces in very unexpected but incredibly constructive way, ex: deep learning.&lt;/p&gt;</content><author><name>Lucas Shen</name></author><summary type="html">updated: 2020-4-4</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" /><media:content medium="image" url="https://lucasshen.org/assets/1_7upJf6TmTe_MAXXT_gWTUw.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Business model and ESG</title><link href="https://lucasshen.org/business/2020/03/28/business-model-esg.html" rel="alternate" type="text/html" title="Business model and ESG" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://lucasshen.org/business/2020/03/28/business-model-esg</id><content type="html" xml:base="https://lucasshen.org/business/2020/03/28/business-model-esg.html">&lt;p&gt;Business model is how companies transform product value to profit and sustainability. Profit is the only important metric to evaluate successful company, for now.&lt;/p&gt;
 
 &lt;p&gt;If business model is not aligned with stakeholders, the business will fail.&lt;/p&gt;
 
