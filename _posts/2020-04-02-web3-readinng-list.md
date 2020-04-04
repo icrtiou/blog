@@ -10,10 +10,13 @@ source_name:
 source_url:
 ---
 
+> updated: 2020-4-4
+
 I've been reading about web3 movement recently. It has many faces. The list helps me a lot. May be helpful to you as well.
 
 ### List
 
+- [Technology as a political act aka Web3 (2020)](#technology-as-a-political-act-aka-web3-2020)
 - [A Warm Welcome to Web3 and the Future of the Internet (2018)](#a-warm-welcome-to-web3-and-the-future-of-the-internet-2018)
 - [Why We Need Web 3.0 (2018)](#why-we-need-web-30-2018)
 - [Understanding Web 3 — A User Controlled Internet (2018)](#understanding-web-3--a-user-controlled-internet-2018)
@@ -26,6 +29,10 @@ I've been reading about web3 movement recently. It has many faces. The list help
 - [Re-decentralizing the Web, for good this time (2019)](#re-decentralizing-the-web-for-good-this-time-2019)
 
 ### Excerpt and notes
+
+## [Technology as a political act aka Web3 (2020)](https://outlierventures.io/research/technology-as-a-political-act-aka-web3/)
+
+- Web3 is a social movement. As computing and software become cheaper, faster and easier, activism and political statements can be expressed in code. A lot of people don’t trust authorities, so instead of demonstrating they are creating technology. Technology, in this case, is a political act.
 
 ## [A Warm Welcome to Web3 and the Future of the Internet (2018)](https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5)
 
